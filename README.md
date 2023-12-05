@@ -6,8 +6,12 @@
 
 ## Sobre
 
-Na Plataforma de Aconselhamento Financeiro para Jovens, tem como missão capacitar indivíduos a tomar decisões financeiras informadas, oferecendo orientação especializada e recursos educacionais para uma jornada financeira mais saudável e segura.
-Capturar e registrar todas as transações financeiras realizadas pelos usuários, como gastos com cartão de crédito, débito, transferências, depósitos, investimentos e pagamentos.
+<p>
+Na Plataforma de Aconselhamento Financeiro para Jovens, tem como missão capacitar indivíduos a tomar decisões financeiras informadas, oferecendo orientação especializada e recursos educacionais para uma jornada financeira mais saudável e segura. 
+</p>
+<p>
+Capturar e registrar todas as transações financeiras realizadas pelos usuários, como gastos com cartão de crédito, débito, transferências, depósitos, investimentos e pagamentos. 
+</p>
 
 ---
 
