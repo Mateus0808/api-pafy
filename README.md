@@ -12,6 +12,9 @@ Na Plataforma de Aconselhamento Financeiro para Jovens, tem como missão capacit
 <p>
 Capturar e registrar todas as transações financeiras realizadas pelos usuários, como gastos com cartão de crédito, débito, transferências, depósitos, investimentos e pagamentos. 
 </p>
+<p>
+As roles de usuário, como ROLE_USER e ROLE_ADMIN, são usadas em sistemas para definir permissões e acessos específicos para diferentes tipos de usuários.
+</p>
 
 ---
 
