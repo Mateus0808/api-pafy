@@ -59,7 +59,7 @@ Tecnologias utilizadas.
 - `server.port=8080`
 - `spring.datasource.url=jdbc:mysql://localhost:3306/pafy_db`
 - `spring.datasource.username=root`
-- `spring.datasource.password=root`
+- `spring.datasource.password=admin`
 - `spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver`
 - `spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.MySQLDialect`
 - `spring.servlet.multipart.max-file-size=500KB`
